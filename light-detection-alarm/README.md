@@ -29,3 +29,4 @@ If the value is below the threshold, the buzzer turns on in a pulsing pattern.
 
 ## Simulation
 Built and tested using Tinkercad.
+simulation link: https://www.tinkercad.com/things/7jt7f8Ewb0t/editel?returnTo=%2Fdashboard
