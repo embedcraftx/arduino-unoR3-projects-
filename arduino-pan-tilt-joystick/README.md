@@ -22,7 +22,7 @@ Additionally, a push button and piezoelectric buzzer are integrated. When the bu
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram] <img width="1640" height="912" alt="image" src="https://github.com/user-attachments/assets/ff6e7550-19f9-4f0f-8451-0becd91e4cf8" />
+ <img width="1640" height="912" alt="image" src="https://github.com/user-attachments/assets/ff6e7550-19f9-4f0f-8451-0becd91e4cf8" />
 
 
 ---
